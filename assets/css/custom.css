@@ -1,0 +1,39 @@
+*{
+    
+    font-family: 'AR One Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    
+}
+
+.owl-nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: 50px;
+}
+
+.card-body{
+    height: 300px;
+}
+
+.card-body h5{
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.carousel-inner{
+    height: 685px;
+}
+
+.carousel-item img{
+    height: 685px;
+}
+
+.py-5 .container .shadow{
+    height: auto;
+}
+
+.py-5 .container .card .card-body{
+    height: auto;
+}
